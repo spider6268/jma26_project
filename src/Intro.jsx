@@ -32,7 +32,6 @@ function Intro() {
               on={{
                 click: () => {
                   (captionsRef.current?.visible)?.();
-                  (thumbnailsRef.current?.visible)?.();
                 },
               }}
               open={openIntro} slides={data.Intro} close={() => setOpenInt(false)
