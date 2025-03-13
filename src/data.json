@@ -4,7 +4,7 @@
                 {"title": "Intro Slide 2", "src":"src/assets/Intro2.jpg","description":"After the 4 projects were completed, all of the rooms moved or expanded except for the Patio. Close this slide show and select a project above for more details on individual projects"}
                  ],
         "Kitchen": [
-                {"title": "Kitchen Slide 1", "src":"src/assets/IMG_2655.JPG","description":"The future kitchen was originally a family room that was added onto the house in 1970"},
+                {"title": "Kitchen Slide 1", "src":"main/src/assets/IMG_2655.JPG","description":"The future kitchen was originally a family room that was added onto the house in 1970"},
                 {"title": "Kitchen Slide 2", "src":"src/assets/IMG_1728.JPG","description":"The room was gutted to the exterior walls to prepare for rebuilding"},
                 {"title": "Kitchen Slide 3", "src":"src/assets/IMG_1729.JPG","description":"Insullation was installed, wood framing built to allow for electrical wiring, and new windows installed"},
                 {"title": "Kitchen Slide 4", "src":"src/assets/IMG_2088.jpg","description":"Drywall was installed in the room"},
