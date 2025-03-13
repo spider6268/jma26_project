@@ -1,55 +1,55 @@
 {
         "Intro": [
                 {"title": "Intro Slide 1", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/Intro1.jpg","description":"Here are the original locations of the 4 project areas within the footprint of the first floor of my house"},
-                {"title": "Intro Slide 2", "src":"src/assets/Intro2.jpg","description":"After the 4 projects were completed, all of the rooms moved or expanded except for the Patio. Close this slide show and select a project above for more details on individual projects"}
+                {"title": "Intro Slide 2", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/Intro2.jpg","description":"After the 4 projects were completed, all of the rooms moved or expanded except for the Patio. Close this slide show and select a project above for more details on individual projects"}
                  ],
         "Kitchen": [
-                {"title": "Kitchen Slide 1", "src":"main/src/assets/IMG_2655.JPG","description":"The future kitchen was originally a family room that was added onto the house in 1970"},
-                {"title": "Kitchen Slide 2", "src":"src/assets/IMG_1728.JPG","description":"The room was gutted to the exterior walls to prepare for rebuilding"},
-                {"title": "Kitchen Slide 3", "src":"src/assets/IMG_1729.JPG","description":"Insullation was installed, wood framing built to allow for electrical wiring, and new windows installed"},
-                {"title": "Kitchen Slide 4", "src":"src/assets/IMG_2088.jpg","description":"Drywall was installed in the room"},
-                {"title": "Kitchen Slide 5", "src":"src/assets/IMG_2776.jpg","description":"In floor heating was installed with the preparation for the tile floor"},
-                {"title": "Kitchen Slide 6", "src":"src/assets/IMG_2368.jpg","description":"Cabinets were built using Maple plywood"},
-                {"title": "Kitchen Slide 7", "src":"src/assets/IMG_2510.jpg","description":"The cabinets were then painted black"},
-                {"title": "Kitchen Slide 8", "src":"src/assets/IMG_2536.jpg","description":"Cabinets are then installed in the kitchen"},
-                {"title": "Kitchen Slide 9", "src":"src/assets/IMG_2797.jpg","description":"Granite countertops are installed"},
-                {"title": "Kitchen Slide 10", "src":"src/assets/img_2462.jpg","description":"40 Cabinet Doors and Drawer fronts are built and test fitted"},
-                {"title": "Kitchen Slide 11", "src":"src/assets/IMG_3359.jpg","description":"All doors are painted"},
-                {"title": "Kitchen Slide 12", "src":"src/assets/IMG_3492.jpg","description":"Doors, handles, and the tile backsplash are installed to complete the project"},
-                {"title": "Kitchen Slide 13", "src":"src/assets/IMG_3488.jpg","description":"The finished kitchen, panorama 1"},
-                {"title": "Kitchen Slide 14", "src":"src/assets/IMG_3489.jpg","description":"The finished kitchen, panorama 2"}
+                {"title": "Kitchen Slide 1", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2655.JPG","description":"The future kitchen was originally a family room that was added onto the house in 1970"},
+                {"title": "Kitchen Slide 2", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_1728.JPG","description":"The room was gutted to the exterior walls to prepare for rebuilding"},
+                {"title": "Kitchen Slide 3", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_1729.JPG","description":"Insullation was installed, wood framing built to allow for electrical wiring, and new windows installed"},
+                {"title": "Kitchen Slide 4", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2088.JPG","description":"Drywall was installed in the room"},
+                {"title": "Kitchen Slide 5", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2776.jpg","description":"In floor heating was installed with the preparation for the tile floor"},
+                {"title": "Kitchen Slide 6", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2368.jpg","description":"Cabinets were built using Maple plywood"},
+                {"title": "Kitchen Slide 7", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2510.jpg","description":"The cabinets were then painted black"},
+                {"title": "Kitchen Slide 8", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2536.jpg","description":"Cabinets are then installed in the kitchen"},
+                {"title": "Kitchen Slide 9", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2797.jpg","description":"Granite countertops are installed"},
+                {"title": "Kitchen Slide 10", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/img_2462.jpg","description":"40 Cabinet Doors and Drawer fronts are built and test fitted"},
+                {"title": "Kitchen Slide 11", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_3359.jpg","description":"All doors are painted"},
+                {"title": "Kitchen Slide 12", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_3492.jpg","description":"Doors, handles, and the tile backsplash are installed to complete the project"},
+                {"title": "Kitchen Slide 13", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_3488.jpg","description":"The finished kitchen, panorama 1"},
+                {"title": "Kitchen Slide 14", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_3489.jpg","description":"The finished kitchen, panorama 2"}
                 
         ],
         "Dining": [
-                {"title": "Dining Room Slide 1", "src":"src/assets/IMG_2654 Medium.jpeg","description":"The original dining room was a 10' by 10' space between the original kitchen and family room"},
-                {"title": "Dining Room Slide 2", "src":"src/assets/IMG_2647 Medium.jpeg","description":"With the original kitchen no longer needed, the dining room was expanded into part of this space"},
-                {"title": "Dining Room Slide 3", "src":"src/assets/IMG_2792 Medium.jpeg","description":"The old kitchen cabinets were removed and the room was gutted to prepare for the rebuild, the wall pictured is the where the bathrooms start"},
-                {"title": "Dining Room Slide 4", "src":"src/assets/IMG_2836 Medium.jpeg","description":"The plumbing lines for the bathroom above the dining room were replaced while they were accessible. The wall framing on the right marks the new border of the Dining Room, the remaining space will be claimed with the bathroom project"},
-                {"title": "Dining Room Slide 5", "src":"src/assets/IMG_2847 Medium.jpeg","description":"The sliding door from the old kitchen was replaced with a new window"},
-                {"title": "Dining Room Slide 6", "src":"src/assets/IMG_2858 Medium.jpeg","description":"Drywall was installed and painted"},
-                {"title": "Dining Room Slide 7", "src":"src/assets/IMG_3011 Medium.jpeg","description":"New hardwood floors were installed to match the rest of the house"},
-                {"title": "Dining Room Slide 8", "src":"src/assets/IMG_2905 Medium.jpeg","description":"Trim is installed and the room filled with furniture to complete the project"}
+                {"title": "Dining Room Slide 1", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2654 Medium.jpeg","description":"The original dining room was a 10' by 10' space between the original kitchen and family room"},
+                {"title": "Dining Room Slide 2", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2647 Medium.jpeg","description":"With the original kitchen no longer needed, the dining room was expanded into part of this space"},
+                {"title": "Dining Room Slide 3", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2792 Medium.jpeg","description":"The old kitchen cabinets were removed and the room was gutted to prepare for the rebuild, the wall pictured is the where the bathrooms start"},
+                {"title": "Dining Room Slide 4", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2836 Medium.jpeg","description":"The plumbing lines for the bathroom above the dining room were replaced while they were accessible. The wall framing on the right marks the new border of the Dining Room, the remaining space will be claimed with the bathroom project"},
+                {"title": "Dining Room Slide 5", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2847 Medium.jpeg","description":"The sliding door from the old kitchen was replaced with a new window"},
+                {"title": "Dining Room Slide 6", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2858 Medium.jpeg","description":"Drywall was installed and painted"},
+                {"title": "Dining Room Slide 7", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_3011 Medium.jpeg","description":"New hardwood floors were installed to match the rest of the house"},
+                {"title": "Dining Room Slide 8", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2905 Medium.jpeg","description":"Trim is installed and the room filled with furniture to complete the project"}
         ],
         "Bath": [
-                {"title": "Bathroom Slide 1", "src":"src/assets/IMG_2657 Medium.jpeg","description":"The two bathrooms were each 35 sqare feet"},
-                {"title": "Bathroom Slide 2", "src":"src/assets/IMG_1182 Medium.jpeg","description":"Only one had a shower, the other had a tub that was never used"},
-                {"title": "Bathroom Slide 3", "src":"src/assets/IMG_3534 Medium.jpeg","description":"Once gutted a space measuring 10' X 10' was left, thirty square feet were gained by taking space from the old kitchen"},
-                {"title": "Bathroom Slide 4", "src":"src/assets/IMG_3605 Medium.jpeg","description":"This large area was then divided between a hallway half bathroom of 32 square feet"},
-                {"title": "Bathroom Slide 5", "src":"src/assets/IMG_15237 Medium.jpeg","description":"A larger ensuite bathroom was built out of the remaing space"},
-                {"title": "Bathroom Slide 6", "src":"src/assets/IMG_5821.jpeg","description":"Plumbing and Electrical was run to support the new fixtures"},
-                {"title": "Bathroom Slide 7", "src":"src/assets/IMG_3107 Medium.jpeg","description":"Drywall was then installed to prepare for finishes"},
-                {"title": "Bathroom Slide 8", "src":"src/assets/IMG_3135 Medium.jpeg","description":"Floor tile and countertops matching the kitchen were installed in the smaller bathroom"},
-                {"title": "Bathroom Slide 9", "src":"src/assets/IMG_4821 Medium.jpeg","description":"A walk in shower with 4 shower heads and bench is installed in the ensuite"},
-                {"title": "Bathroom Slide 10", "src":"src/assets/IMG_5994 Medium.jpeg","description":"The completed project"}
+                {"title": "Bathroom Slide 1", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2657 Medium.jpeg","description":"The two bathrooms were each 35 sqare feet"},
+                {"title": "Bathroom Slide 2", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_1182 Medium.jpeg","description":"Only one had a shower, the other had a tub that was never used"},
+                {"title": "Bathroom Slide 3", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_3534 Medium.jpeg","description":"Once gutted a space measuring 10' X 10' was left, thirty square feet were gained by taking space from the old kitchen"},
+                {"title": "Bathroom Slide 4", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_3605 Medium.jpeg","description":"This large area was then divided between a hallway half bathroom of 32 square feet"},
+                {"title": "Bathroom Slide 5", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_15237 Medium.jpeg","description":"A larger ensuite bathroom was built out of the remaing space"},
+                {"title": "Bathroom Slide 6", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_5821.jpeg","description":"Plumbing and Electrical was run to support the new fixtures"},
+                {"title": "Bathroom Slide 7", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_3107 Medium.jpeg","description":"Drywall was then installed to prepare for finishes"},
+                {"title": "Bathroom Slide 8", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_3135 Medium.jpeg","description":"Floor tile and countertops matching the kitchen were installed in the smaller bathroom"},
+                {"title": "Bathroom Slide 9", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_4821 Medium.jpeg","description":"A walk in shower with 4 shower heads and bench is installed in the ensuite"},
+                {"title": "Bathroom Slide 10", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_5994 Medium.jpeg","description":"The completed project"}
         ],
         "Patio": [
-                {"title": "Patio Slide 1", "src":"src/assets/IMG_2765 Medium.jpeg","description":"The patio is built over a garage and is adjacent to the new kitchen"},
-                {"title": "Patio Slide 2", "src":"src/assets/IMG_3063 Medium.jpeg","description":"The metal support columns were rusting away and needed replacement, the ceiling soffit was also rusting and faded after 53 years"},
-                {"title": "Patio Slide 3", "src":"src/assets/71933026796__7A1734E3-F647-4738-AD35-93C39295A17A Medium.jpeg","description":"The old soffit was removed, and new lights added while it was open"},
-                {"title": "Patio Slide 4", "src":"src/assets/IMG_5161 Medium.jpeg","description":"New soffit panels were installed to close up the ceiling"},
-                {"title": "Patio Slide 5", "src":"src/assets/IMG_5193 Medium.jpeg","description":"New posts were installed to replace the old rusted supports and a modern cable railing system added"},
-                {"title": "Patio Slide 6", "src":"src/assets/IMG_5995 Medium.jpeg","description":"LED smart lights allow for instant color changes, Go Birds!!!"},
-                {"title": "Patio Slide 7", "src":"src/assets/IMG_5190 Medium.jpeg","description":"Furniture was installed to complete the project"}
+                {"title": "Patio Slide 1", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_2765 Medium.jpeg","description":"The patio is built over a garage and is adjacent to the new kitchen"},
+                {"title": "Patio Slide 2", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_3063 Medium.jpeg","description":"The metal support columns were rusting away and needed replacement, the ceiling soffit was also rusting and faded after 53 years"},
+                {"title": "Patio Slide 3", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/71933026796__7A1734E3-F647-4738-AD35-93C39295A17A Medium.jpeg","description":"The old soffit was removed, and new lights added while it was open"},
+                {"title": "Patio Slide 4", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_5161 Medium.jpeg","description":"New soffit panels were installed to close up the ceiling"},
+                {"title": "Patio Slide 5", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_5193 Medium.jpeg","description":"New posts were installed to replace the old rusted supports and a modern cable railing system added"},
+                {"title": "Patio Slide 6", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_5995 Medium.jpeg","description":"LED smart lights allow for instant color changes, Go Birds!!!"},
+                {"title": "Patio Slide 7", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/IMG_5190 Medium.jpeg","description":"Furniture was installed to complete the project"}
                 
         ]
     }
