@@ -12,7 +12,6 @@ function Intro() {
 
     const [openIntro, setOpenInt] = React.useState(false);
     const captionsRef = React.useRef(null);
-    const thumbnailsRef = React.useRef(null);
     
     const buttonStyle = {
         color:'black',
