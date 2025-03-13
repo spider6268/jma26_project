@@ -1,6 +1,6 @@
 {
         "Intro": [
-                {"title": "Intro Slide 1", "src":"src/assets/Intro1.jpg","description":"Here are the original locations of the 4 project areas within the footprint of the first floor of my house"},
+                {"title": "Intro Slide 1", "src":"https://raw.githubusercontent.com/spider6268/jma26_project/refs/heads/main/src/assets/Intro1.jpg","description":"Here are the original locations of the 4 project areas within the footprint of the first floor of my house"},
                 {"title": "Intro Slide 2", "src":"src/assets/Intro2.jpg","description":"After the 4 projects were completed, all of the rooms moved or expanded except for the Patio. Close this slide show and select a project above for more details on individual projects"}
                  ],
         "Kitchen": [
