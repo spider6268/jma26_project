@@ -6,6 +6,7 @@ If you wish to build your own page using the lightbox and react you will need to
 After installing, add these to import statements to any page to any page hosting the lightbox:
 
 import Lightbox from "yet-another-react-lightbox"
+
 import "yet-another-react-lightbox/styles.css"
 
 Additional imports will be needed depending on the features and customizations used. Documentation on how to do this is at:
