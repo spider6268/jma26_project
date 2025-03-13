@@ -33,7 +33,9 @@ const buttonStyle = {
           counter={{ container: { style: { top: 25, bottom: "unset" } } }}
           on={{
             click: () => {
-              (captionsRef.current?.visible)?.();
+              (captionsRef.current?.visible
+                ? captionsRef.current?.hide
+                : captionsRef.current?.show)?.();
               (thumbnailsRef.current?.visible)?.();
             },
           }}
